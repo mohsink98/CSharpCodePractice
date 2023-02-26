@@ -1,4 +1,4 @@
-`About Basics`
+# About Basics
 
 C# is a statically-typed language, which means that everything has a type at compile-time. Choosing a name for a variable is referred to as defining a variable. Once a variable is defined, setting or updating a value is called variable assignment. A variable can be defined either by explicitly specifying its type, or by using the var keyword to have the C# compiler infer its type based on the assigned value. The use of var is known as type inference.
 

@@ -1,0 +1,16 @@
+
+ExpectedMinutesInOven() - no params
+total expected time = 40
+
+
+RemainingMinutesInOven() - takes 1 param
+how many minutes left i.e. TET - Param
+
+PreparationTimeInMinutes() - taken 1 param as layers
+calculate time based on each layer
+each layer takes 2 mins to prepare
+
+ElapsedTimeInMinutes() - takes 2 params ( layers, MinutesBeenInOven)
+sum and return the number of minutes took to prepare each layer and MinutesBeenInOven
+
+
