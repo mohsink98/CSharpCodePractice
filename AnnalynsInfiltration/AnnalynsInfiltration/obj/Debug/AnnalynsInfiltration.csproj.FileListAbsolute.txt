@@ -1,0 +1,7 @@
+D:\Learnings\GitHubRepositories\CSharpCodePractice\AnnalynsInfiltration\AnnalynsInfiltration\bin\Debug\AnnalynsInfiltration.exe.config
+D:\Learnings\GitHubRepositories\CSharpCodePractice\AnnalynsInfiltration\AnnalynsInfiltration\bin\Debug\AnnalynsInfiltration.exe
+D:\Learnings\GitHubRepositories\CSharpCodePractice\AnnalynsInfiltration\AnnalynsInfiltration\bin\Debug\AnnalynsInfiltration.pdb
+D:\Learnings\GitHubRepositories\CSharpCodePractice\AnnalynsInfiltration\AnnalynsInfiltration\obj\Debug\AnnalynsInfiltration.csproj.AssemblyReference.cache
+D:\Learnings\GitHubRepositories\CSharpCodePractice\AnnalynsInfiltration\AnnalynsInfiltration\obj\Debug\AnnalynsInfiltration.csproj.CoreCompileInputs.cache
+D:\Learnings\GitHubRepositories\CSharpCodePractice\AnnalynsInfiltration\AnnalynsInfiltration\obj\Debug\AnnalynsInfiltration.exe
+D:\Learnings\GitHubRepositories\CSharpCodePractice\AnnalynsInfiltration\AnnalynsInfiltration\obj\Debug\AnnalynsInfiltration.pdb
