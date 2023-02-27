@@ -1,0 +1,13 @@
+CanFastAttack() -> Takes one param
+if knight is awake then false otherwise true
+
+
+CanSpy() -> Takes Three params
+if any one of the kidnapper is awake then true otherwise false
+
+CanSignalPrisoner() -> Takes two params
+if archer is asleep and prisoner is awake then true otherwise false
+
+CanFreePrisoner() -> takes four params
+if archer is asleep and khight is awake but we have pet dog and prisoner is awake
+if archer and knight are sleeping prisoner is awake and dog is not available
